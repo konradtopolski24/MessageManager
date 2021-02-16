@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Message Manager</string>
+    <string name="hint_et_icon">Adres obrazu</string>
+    <string name="hint_et_title">Tytuł</string>
+    <string name="hint_et_description">Opis</string>
+    <string name="desc_iv_icon">Widok obrazu ukazujący obraz wiadomości</string>
+    <string name="desc_ib_edit">Przycisk z obrazem do edycji wiadomości</string>
+    <string name="desc_fab_add">Przycisk akcji do dodawania nowych wiadomości</string>
+    <string name="desc_fab_finish">Przycisk akcji do zakończenia zarządzaniem wiadomością</string>
+</resources>

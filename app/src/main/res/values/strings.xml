@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Message Manager</string>
+    <string name="hint_et_icon">Image address</string>
+    <string name="hint_et_title">Title</string>
+    <string name="hint_et_description">Description</string>
+    <string name="desc_iv_icon">Image View for showing post image</string>
+    <string name="desc_ib_edit">Image Button for editing a post</string>
+    <string name="desc_fab_add">Floating Action Button for adding new posts</string>
+    <string name="desc_fab_finish">Floating Action Button for finishing post management</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="df_zero">0dp</dimen>
+    <dimen name="vw_margin">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="ic_big">200dp</dimen>
+    <dimen name="ic_small">150dp</dimen>
+    <dimen name="cv_margin">16dp</dimen>
+    <dimen name="cv_corner">8dp</dimen>
+    <dimen name="iv_edit">24dp</dimen>
+    <dimen name="rv_padding">52dp</dimen>
+
+    <dimen name="tx_big">20sp</dimen>
+    <dimen name="tx_medium">18sp</dimen>
+    <dimen name="tx_small">15sp</dimen>
+</resources>
